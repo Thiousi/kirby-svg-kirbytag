@@ -1,0 +1,8 @@
+{
+"name": "svg-kirbytag",
+"description": "A kirbytext extension to inline svg images",
+"author": "Mathieu Etienne <contact@hiweb.fr>",
+"license": "MIT",
+"version": "1.0.0",
+"type": "kirby-plugin"
+}
